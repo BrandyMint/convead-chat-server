@@ -3,6 +3,8 @@ convead-chat-server
 
 Данный проект содержит только документацию по чату.
 
+[ChatAPIv2](https://github.com/BrandyMint/convead-chat-server/wiki/ChatAPIv2)
+
 Процедура инициализации чата
 ============================
 
